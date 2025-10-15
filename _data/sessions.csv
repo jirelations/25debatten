@@ -1,92 +1,1486 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Aufgabe,tags,contents,slide-filename,slide-frontmatter,slide-body1,slide-body2,slide-content
+,1,16.10,2025-10-16-1.md,Einführung,Einführung,"Einführung, Konzeptualisierung, Ziele",,1. Einführung: Einführung,1,cordoba-design.jpg,1-Einführung,,,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
----"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+---",2025-10-16-1-slides.md,"---
+layout: reveal
+title: 'Einführung, Konzeptualisierung, Ziele'
+author: 'Rana Alsoufi & Nathan Gibson'
+session: 1
+tags: [1,slides]
+category: slides
+image: cordoba-design.jpg
+parallaxBackgroundImage: 'assets/img/cordoba-design.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Einführung, Konzeptualisierung, Ziele
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+objective
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was sind Polemiken und wofür sollen sie analysiert werden?","---
+layout: reveal
+title: 'Einführung, Konzeptualisierung, Ziele'
+author: 'Rana Alsoufi & Nathan Gibson'
+session: 1
+tags: [1,slides]
+category: slides
+image: cordoba-design.jpg
+parallaxBackgroundImage: 'assets/img/cordoba-design.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Einführung, Konzeptualisierung, Ziele
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+objective
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was sind Polemiken und wofür sollen sie analysiert werden?"
+,2,23.10,2025-10-23-2.md,Einführung,Polemiken,Was sind Polemiken und wofür sollen sie analysiert werden?,,2. Einführung: Polemiken,2,dialog-muslim-christian.jpg,2-Polemiken,,,,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
----"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+---",2025-10-23-2-slides.md,"---
+layout: reveal
+title: 'Was sind Polemiken und wofür sollen sie analysiert werden?'
+author: 'Nathan Gibson'
+session: 2
+tags: [2,slides]
+category: slides
+image: dialog-muslim-christian.jpg
+parallaxBackgroundImage: 'assets/img/dialog-muslim-christian.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was sind Polemiken und wofür sollen sie analysiert werden?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie wurde in Polemiken über die Bibel diskutiert?","---
+layout: reveal
+title: 'Was sind Polemiken und wofür sollen sie analysiert werden?'
+author: 'Nathan Gibson'
+session: 2
+tags: [2,slides]
+category: slides
+image: dialog-muslim-christian.jpg
+parallaxBackgroundImage: 'assets/img/dialog-muslim-christian.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was sind Polemiken und wofür sollen sie analysiert werden?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie wurde in Polemiken über die Bibel diskutiert?"
+,3,30.10,2025-10-30-3.md,Ibn Ḥazm,Bibelkritik,Wie wurde in Polemiken über die Bibel diskutiert?,Schriftlichkeit,3. Ibn Ḥazm: Bibelkritik,3,bible-john1-en-ar.jpg,3-Bibelkritik,,,,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
----"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+---",2025-10-30-3-slides.md,"---
+layout: reveal
+title: 'Wie wurde in Polemiken über die Bibel diskutiert?'
+author: 'Nathan Gibson'
+session: 3
+tags: [3,slides]
+category: slides
+image: bible-john1-en-ar.jpg
+parallaxBackgroundImage: 'assets/img/bible-john1-en-ar.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie wurde in Polemiken über die Bibel diskutiert?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was hat Ibn Hazm über die Bibel geschrieben?","---
+layout: reveal
+title: 'Wie wurde in Polemiken über die Bibel diskutiert?'
+author: 'Nathan Gibson'
+session: 3
+tags: [3,slides]
+category: slides
+image: bible-john1-en-ar.jpg
+parallaxBackgroundImage: 'assets/img/bible-john1-en-ar.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie wurde in Polemiken über die Bibel diskutiert?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was hat Ibn Hazm über die Bibel geschrieben?"
+,4,06.11,2025-11-06-4.md,Ibn Ḥazm,Ibn Ḥazm: Text,Was hat Ibn Hazm über die Bibel geschrieben?,"Heiligkeit, heilige Orte, Rituale",4. Ibn Ḥazm: Ibn Ḥazm: Text,4,ibn-hazm-ring-dove-ms.jpg,4-Ibn-Ḥazm-Text,,,,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
----"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+---",2025-11-06-4-slides.md,"---
+layout: reveal
+title: 'Was hat Ibn Hazm über die Bibel geschrieben?'
+author: 'Nathan Gibson'
+session: 4
+tags: [4,slides]
+category: slides
+image: ibn-hazm-ring-dove-ms.jpg
+parallaxBackgroundImage: 'assets/img/ibn-hazm-ring-dove-ms.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was hat Ibn Hazm über die Bibel geschrieben?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was ist die Argumentationsanalyse?","---
+layout: reveal
+title: 'Was hat Ibn Hazm über die Bibel geschrieben?'
+author: 'Nathan Gibson'
+session: 4
+tags: [4,slides]
+category: slides
+image: ibn-hazm-ring-dove-ms.jpg
+parallaxBackgroundImage: 'assets/img/ibn-hazm-ring-dove-ms.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was hat Ibn Hazm über die Bibel geschrieben?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was ist die Argumentationsanalyse?"
+,5,13.11,2025-11-13-5.md,Ibn Ḥazm,Argumentationsanalyse,Was ist die Argumentationsanalyse?,"Heiligkeit, heilige Orte",5. Ibn Ḥazm: Argumentationsanalyse,5,argumentation-speech-bubbles.jpg,5-Argumentationsanalyse,,,,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
----"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+---",2025-11-13-5-slides.md,"---
+layout: reveal
+title: 'Was ist die Argumentationsanalyse?'
+author: 'Nathan Gibson'
+session: 5
+tags: [5,slides]
+category: slides
+image: argumentation-speech-bubbles.jpg
+parallaxBackgroundImage: 'assets/img/argumentation-speech-bubbles.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was ist die Argumentationsanalyse?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse von Ibn Hazm mit Close Reading","---
+layout: reveal
+title: 'Was ist die Argumentationsanalyse?'
+author: 'Nathan Gibson'
+session: 5
+tags: [5,slides]
+category: slides
+image: argumentation-speech-bubbles.jpg
+parallaxBackgroundImage: 'assets/img/argumentation-speech-bubbles.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was ist die Argumentationsanalyse?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse von Ibn Hazm mit Close Reading"
+,6,20.11,2025-11-20-6.md,Ibn Ḥazm,Ibn Ḥazm: Argumentationsanalyse,Übung: Argumentationsanalyse von Ibn Hazm mit Close Reading,,6. Ibn Ḥazm: Ibn Ḥazm: Argumentationsanalyse,6,cordoba-building.jpg,6-Ibn-Ḥazm-Argumentationsanalyse,,,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
----"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+---",2025-11-20-6-slides.md,"---
+layout: reveal
+title: 'Übung: Argumentationsanalyse von Ibn Hazm mit Close Reading'
+author: 'Nathan Gibson'
+session: 6
+tags: [6,slides]
+category: slides
+image: cordoba-building.jpg
+parallaxBackgroundImage: 'assets/img/cordoba-building.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse von Ibn Hazm mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie wurde aus jüdischer Seite auf Ibn Hazm geantwortet?","---
+layout: reveal
+title: 'Übung: Argumentationsanalyse von Ibn Hazm mit Close Reading'
+author: 'Nathan Gibson'
+session: 6
+tags: [6,slides]
+category: slides
+image: cordoba-building.jpg
+parallaxBackgroundImage: 'assets/img/cordoba-building.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse von Ibn Hazm mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie wurde aus jüdischer Seite auf Ibn Hazm geantwortet?"
+,7,27.11,2025-11-27-7.md,Ibn Ḥazm,Salomo ibn Adret: Text,Wie wurde aus jüdischer Seite auf Ibn Hazm geantwortet?,"Schriftlichkeit, Mündlichkeit, Normativität",7. Ibn Ḥazm: Salomo ibn Adret: Text,7,cordoba-synagogue-inscription.jpg,7-Salomo-ibn-Adret-Text,,,,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
----"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+---",2025-11-27-7-slides.md,"---
+layout: reveal
+title: 'Wie wurde aus jüdischer Seite auf Ibn Hazm geantwortet?'
+author: 'Nathan Gibson'
+session: 7
+tags: [7,slides]
+category: slides
+image: cordoba-synagogue-inscription.jpg
+parallaxBackgroundImage: 'assets/img/cordoba-synagogue-inscription.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie wurde aus jüdischer Seite auf Ibn Hazm geantwortet?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse vom jüdischen Text mit Close Reading","---
+layout: reveal
+title: 'Wie wurde aus jüdischer Seite auf Ibn Hazm geantwortet?'
+author: 'Nathan Gibson'
+session: 7
+tags: [7,slides]
+category: slides
+image: cordoba-synagogue-inscription.jpg
+parallaxBackgroundImage: 'assets/img/cordoba-synagogue-inscription.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie wurde aus jüdischer Seite auf Ibn Hazm geantwortet?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse vom jüdischen Text mit Close Reading"
+,8,04.12,2025-12-04-8.md,Ibn Ḥazm,Salomo ibn Adret: Argumentationsanalyse,Übung: Argumentationsanalyse vom jüdischen Text mit Close Reading,Hybridität,8. Ibn Ḥazm: Salomo ibn Adret: Argumentationsanalyse,8,andalus-jew-muslim-chess.png,8-Salomo-ibn-Adret-Argumentationsanalyse,,,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
----"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+---",2025-12-04-8-slides.md,"---
+layout: reveal
+title: 'Übung: Argumentationsanalyse vom jüdischen Text mit Close Reading'
+author: 'Nathan Gibson'
+session: 8
+tags: [8,slides]
+category: slides
+image: andalus-jew-muslim-chess.png
+parallaxBackgroundImage: 'assets/img/andalus-jew-muslim-chess.png'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse vom jüdischen Text mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was ist der “Brief aus Zypern”?","---
+layout: reveal
+title: 'Übung: Argumentationsanalyse vom jüdischen Text mit Close Reading'
+author: 'Nathan Gibson'
+session: 8
+tags: [8,slides]
+category: slides
+image: andalus-jew-muslim-chess.png
+parallaxBackgroundImage: 'assets/img/andalus-jew-muslim-chess.png'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse vom jüdischen Text mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was ist der “Brief aus Zypern”?"
+,9,11.12,2025-12-11-9.md,Ibn Taymiyya,Brief aus Zypern,Was ist der “Brief aus Zypern”?,,9. Ibn Taymiyya: Brief aus Zypern,9,cyprus-church.jpg,9-Brief-aus-Zypern,,,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
----"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+---",2025-12-11-9-slides.md,"---
+layout: reveal
+title: 'Was ist der “Brief aus Zypern”?'
+author: 'Nathan Gibson'
+session: 9
+tags: [9,slides]
+category: slides
+image: cyprus-church.jpg
+parallaxBackgroundImage: 'assets/img/cyprus-church.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was ist der “Brief aus Zypern”?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie wurde im Brief aus Zypern über den Koran diskutiert?","---
+layout: reveal
+title: 'Was ist der “Brief aus Zypern”?'
+author: 'Nathan Gibson'
+session: 9
+tags: [9,slides]
+category: slides
+image: cyprus-church.jpg
+parallaxBackgroundImage: 'assets/img/cyprus-church.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Was ist der “Brief aus Zypern”?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie wurde im Brief aus Zypern über den Koran diskutiert?"
+,10,18.12,2025-12-18-10.md,Ibn Taymiyya,Brief aus Zypern: Text,Wie wurde im Brief aus Zypern über den Koran diskutiert?,,10. Ibn Taymiyya: Brief aus Zypern: Text,10,quran-stand.jpg,10-Brief-aus-Zypern-Text,,,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
----"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+---",2025-12-18-10-slides.md,"---
+layout: reveal
+title: 'Wie wurde im Brief aus Zypern über den Koran diskutiert?'
+author: 'Nathan Gibson'
+session: 10
+tags: [10,slides]
+category: slides
+image: quran-stand.jpg
+parallaxBackgroundImage: 'assets/img/quran-stand.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie wurde im Brief aus Zypern über den Koran diskutiert?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse vom Brief aus Zypern mit Close Reading","---
+layout: reveal
+title: 'Wie wurde im Brief aus Zypern über den Koran diskutiert?'
+author: 'Nathan Gibson'
+session: 10
+tags: [10,slides]
+category: slides
+image: quran-stand.jpg
+parallaxBackgroundImage: 'assets/img/quran-stand.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie wurde im Brief aus Zypern über den Koran diskutiert?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse vom Brief aus Zypern mit Close Reading"
+,11,15.01,2026-01-15-11.md,Ibn Taymiyya,Brief aus Zypern: Argumentationsanalyse,Übung: Argumentationsanalyse vom Brief aus Zypern mit Close Reading,"Übergangsriten, Reinheit",11. Ibn Taymiyya: Brief aus Zypern: Argumentationsanalyse,11,speech-bubble.jpg,11-Brief-aus-Zypern-Argumentationsanalyse,,,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
----"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
+---",2026-01-15-11-slides.md,"---
+layout: reveal
+title: 'Übung: Argumentationsanalyse vom Brief aus Zypern mit Close Reading'
+author: 'Nathan Gibson'
+session: 11
+tags: [11,slides]
+category: slides
+image: speech-bubble.jpg
+parallaxBackgroundImage: 'assets/img/speech-bubble.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse vom Brief aus Zypern mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wer war Ibn Taymiyya? (Gast: Farid Suleima)","---
+layout: reveal
+title: 'Übung: Argumentationsanalyse vom Brief aus Zypern mit Close Reading'
+author: 'Nathan Gibson'
+session: 11
+tags: [11,slides]
+category: slides
+image: speech-bubble.jpg
+parallaxBackgroundImage: 'assets/img/speech-bubble.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse vom Brief aus Zypern mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wer war Ibn Taymiyya? (Gast: Farid Suleima)"
+,12,22.01,2026-01-22-12.md,Ibn Taymiyya,Ibn Taymiyya,Wer war Ibn Taymiyya? (Gast: Farid Suleima),,12. Ibn Taymiyya: Ibn Taymiyya,12,harran-houses.jpg,12-Ibn-Taymiyya,,,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
----"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
+---",2026-01-22-12-slides.md,"---
+layout: reveal
+title: 'Wer war Ibn Taymiyya? (Gast: Farid Suleima)'
+author: 'Nathan Gibson'
+session: 12
+tags: [12,slides]
+category: slides
+image: harran-houses.jpg
+parallaxBackgroundImage: 'assets/img/harran-houses.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wer war Ibn Taymiyya? (Gast: Farid Suleima)
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie hat Ibn Taymiyya auf den Brief aus Zypern geantwortet?","---
+layout: reveal
+title: 'Wer war Ibn Taymiyya? (Gast: Farid Suleima)'
+author: 'Nathan Gibson'
+session: 12
+tags: [12,slides]
+category: slides
+image: harran-houses.jpg
+parallaxBackgroundImage: 'assets/img/harran-houses.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wer war Ibn Taymiyya? (Gast: Farid Suleima)
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie hat Ibn Taymiyya auf den Brief aus Zypern geantwortet?"
+,13,29.01,2026-01-29-13.md,Ibn Taymiyya,Ibn Taymiyya: Text,Wie hat Ibn Taymiyya auf den Brief aus Zypern geantwortet?,,13. Ibn Taymiyya: Ibn Taymiyya: Text,13,damascus-citadel.jpg,13-Ibn-Taymiyya-Text,,,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
----"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
+---",2026-01-29-13-slides.md,"---
+layout: reveal
+title: 'Wie hat Ibn Taymiyya auf den Brief aus Zypern geantwortet?'
+author: 'Nathan Gibson'
+session: 13
+tags: [13,slides]
+category: slides
+image: damascus-citadel.jpg
+parallaxBackgroundImage: 'assets/img/damascus-citadel.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie hat Ibn Taymiyya auf den Brief aus Zypern geantwortet?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Rückblick und Lehrevaluation","---
+layout: reveal
+title: 'Wie hat Ibn Taymiyya auf den Brief aus Zypern geantwortet?'
+author: 'Nathan Gibson'
+session: 13
+tags: [13,slides]
+category: slides
+image: damascus-citadel.jpg
+parallaxBackgroundImage: 'assets/img/damascus-citadel.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Wie hat Ibn Taymiyya auf den Brief aus Zypern geantwortet?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Rückblick und Lehrevaluation"
+,14,05.02,2026-02-05-14.md,Abschluss,Rückblick,Rückblick und Lehrevaluation,,14. Abschluss: Rückblick,14,argument-hands.jpg,14-Rückblick,,,,[14],"---
 layout: post
 session: 14
 tags: [14]
 level: overview
----"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
+---",2026-02-05-14-slides.md,"---
+layout: reveal
+title: 'Rückblick und Lehrevaluation'
+author: 'Nathan Gibson'
+session: 14
+tags: [14,slides]
+category: slides
+image: argument-hands.jpg
+parallaxBackgroundImage: 'assets/img/argument-hands.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Rückblick und Lehrevaluation
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse von Ibn Taymiyya mit Close Reading","---
+layout: reveal
+title: 'Rückblick und Lehrevaluation'
+author: 'Nathan Gibson'
+session: 14
+tags: [14,slides]
+category: slides
+image: argument-hands.jpg
+parallaxBackgroundImage: 'assets/img/argument-hands.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Rückblick und Lehrevaluation
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übung: Argumentationsanalyse von Ibn Taymiyya mit Close Reading"
+,15,12.02,2026-02-12-15.md,Abschluss,Ibn Taymiyya: Argumentationsanalyse,Übung: Argumentationsanalyse von Ibn Taymiyya mit Close Reading,,15. Abschluss: Ibn Taymiyya: Argumentationsanalyse,15,damascus-mosque-gate.jpg,15-Ibn-Taymiyya-Argumentationsanalyse,,,,[15],"---
 layout: post
 session: 15
 tags: [15]
 level: overview
----"
+---",2026-02-12-15-slides.md,"---
+layout: reveal
+title: 'Übung: Argumentationsanalyse von Ibn Taymiyya mit Close Reading'
+author: 'Nathan Gibson'
+session: 15
+tags: [15,slides]
+category: slides
+image: damascus-mosque-gate.jpg
+parallaxBackgroundImage: 'assets/img/damascus-mosque-gate.jpg'
+---
+","# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse von Ibn Taymiyya mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: 'Übung: Argumentationsanalyse von Ibn Taymiyya mit Close Reading'
+author: 'Nathan Gibson'
+session: 15
+tags: [15,slides]
+category: slides
+image: damascus-mosque-gate.jpg
+parallaxBackgroundImage: 'assets/img/damascus-mosque-gate.jpg'
+---
+# Interreligiöse Begegnungen und Debatten auf Arabisch vom 11. bis zum 14. Jahrhundert
+{: .r-fit-text}
+
+### Übung: Argumentationsanalyse von Ibn Taymiyya mit Close Reading
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
