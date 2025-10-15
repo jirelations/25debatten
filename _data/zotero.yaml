@@ -82,6 +82,40 @@ references:
   type: chapter
   URL: https://books.openedition.org/cvz/2734
 
+- id: adangMedievalMuslimPolemics1999
+  author:
+    - family: Adang
+      given: Camilla
+  citation-key: adangMedievalMuslimPolemics1999
+  container-title: 'Muslim Perceptions of Other Religions: A Historical Survey'
+  editor:
+    - family: Waardenburg
+      given: Jacques
+  event-place: New York
+  issued:
+    - year: 1999
+  page: 143-159
+  publisher: Oxford University Press
+  publisher-place: New York
+  title: Medieval Muslim Polemics against the Jewish Scriptures
+  type: chapter
+
+- id: adangMuslimWritersJudaism1996
+  author:
+    - family: Adang
+      given: Camilla
+  citation-key: adangMuslimWritersJudaism1996
+  event-place: New York
+  ISBN: 978-90-04-10034-3
+  issued:
+    - year: 1996
+  publisher: Brill
+  publisher-place: New York
+  source: Open WorldCat
+  title: 'Muslim Writers on Judaism and the Hebrew Bible: From Ibn Rabban to Ibn Hazm'
+  title-short: Muslim writers on Judaism and the Hebrew Bible
+  type: book
+
 - id: adangPolemicsMuslimJewish2010
   abstract: '"Polemics (Muslim-Jewish)" published on  by Brill.'
   accessed:
@@ -190,6 +224,20 @@ references:
   title-short: Power in the Portrayal
   type: book
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9781400825240/html
+
+- id: ChristiansChristianityQur`an
+  abstract: '"Christians and Christianity in the Qurʾān" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 15
+  citation-key: ChristiansChristianityQur`an
+  container-title: referenceworks
+  DOI: 10.1163/1877-8054_cmri_COM_24332
+  language: en
+  title: Christians and Christianity in the Qurʾān
+  type: webpage
+  URL: https://referenceworks.brill.com/display/entries/CMRO/COM-24332.xml
 
 - id: cohenChristianAdversarySolomon1980
   accessed:
@@ -429,6 +477,22 @@ references:
   URL: >-
     https://referenceworks-brill-com.proxy.ub.uni-frankfurt.de/display/entries/CMRO/COM-23431.xml
 
+- id: MuslimRegardChristians
+  abstract: >-
+    "Muslim regard for Christians and Christianity, 900-1200" published on  by
+    Brill.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 15
+  citation-key: MuslimRegardChristians
+  container-title: referenceworks
+  DOI: 10.1163/1877-8054_cmri_COM_25008
+  language: en
+  title: Muslim regard for Christians and Christianity, 900-1200
+  type: webpage
+  URL: https://referenceworks.brill.com/display/entries/CMRO/COM-25008.xml
+
 - id: naor2008ma
   author:
     - family: Naor
@@ -453,6 +517,27 @@ references:
   title: Nethanel Fayyūmī
   type: webpage
   URL: https://referenceworks.brill.com/display/entries/EJIO/SIM-0016750.xml
+
+- id: nickelNarrativesTamperingEarliest2011
+  accessed:
+    - year: 2016
+      month: 5
+      day: 3
+  author:
+    - family: Nickel
+      given: Gordon D
+  citation-key: nickelNarrativesTamperingEarliest2011
+  event-place: Leiden
+  ISBN: 978-90-04-19239-3
+  issued:
+    - year: 2011
+  language: English
+  publisher: Brill
+  publisher-place: Leiden
+  source: Open WorldCat
+  title: Narratives of tampering in the earliest commentaries on the Qurʻan
+  type: book
+  URL: http://dx.doi.org/10.1163/9789004192393
 
 - id: perlesSalomoBenAbraham1863
   author:
@@ -630,4 +715,50 @@ references:
     1002 - 1086
   title-short: The rise and fall of the party-kings
   type: book
+
+- id: whittinghamHistoryMuslimViews2021
+  author:
+    - family: Whittingham
+      given: Martin (Verfasser)
+  citation-key: whittinghamHistoryMuslimViews2021
+  event-place: Berlin
+  ISBN: 978-3-11-033588-0
+  issued:
+    - year: 2021
+  language: en
+  number-of-pages: 1 Online-Ressource (XVI, 214 p.)
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: COinS
+  title: 'A History of Muslim Views of the Bible: The First Four Centuries'
+  title-short: A History of Muslim Views of the Bible
+  type: book
+  URL: >-
+    https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110335880/html
+
+- id: whittinghamIntroduction2020
+  accessed:
+    - year: 2025
+      month: 10
+      day: 15
+  author:
+    - family: Whittingham
+      given: Martin
+  citation-key: whittinghamIntroduction2020
+  container-title: 'A History of Muslim Views of the Bible: The First Four Centuries'
+  event-place: Berlin
+  ISBN: 978-3-11-033588-0
+  issued:
+    - year: 2020
+      month: 11
+      day: 23
+  language: en
+  page: 1-20
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
+  title: Introduction
+  type: chapter
+  URL: >-
+    https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110335880-004/html
 ...
