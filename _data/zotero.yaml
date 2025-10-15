@@ -1,5 +1,32 @@
 ---
 references:
+- id: adangIbnHazmAli2010
+  abstract: '"Ibn Ḥazm, ‘Alī" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Adang
+      given: Camilla
+  citation-key: adangIbnHazmAli2010
+  container-title: Encyclopedia of Jews in the Islamic World Online
+  DOI: 10.1163/1878-9781_ejiw_COM_0010700
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 10
+      day: 1
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Ibn Ḥazm, ‘Alī
+  type: chapter
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0010700
+
 - id: adangJewishReplyIbn2002
   abstract: >-
     This article deals with, and presents sections from a tract written by the
@@ -55,6 +82,32 @@ references:
   type: chapter
   URL: https://books.openedition.org/cvz/2734
 
+- id: adangPolemicsMuslimJewish2010
+  abstract: '"Polemics (Muslim-Jewish)" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Adang
+      given: Camilla
+    - family: Schmidtke
+      given: Sabine
+  citation-key: adangPolemicsMuslimJewish2010
+  container-title: Encyclopedia of Jews in the Islamic World Online
+  DOI: 10.1163/1878-9781_ejiw_COM_0017750
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 10
+      day: 1
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Polemics (Muslim-Jewish)
+  type: chapter
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0017750
+
 - id: bousekEntangledArgumentsSurvey2021
   accessed:
     - year: 2025
@@ -86,6 +139,97 @@ references:
   type: chapter
   URL: https://doi.org/10.1628/978-3-16-156984-5
 
+- id: brannPowerPortrayalRepresentations2009
+  abstract: >-
+    Power in the Portrayal unveils a fresh and vital perspective on power
+    relations in eleventh- and twelfth-century Muslim Spain as reflected in
+    historical and literary texts of the period. Employing the methods of the
+    new historical literary study in looking at a range of texts, Ross Brann
+    reveals the paradoxical relations between the Andalusi Muslim and Jewish
+    elites in an era when long periods of tolerance and respect were punctuated
+    by outbreaks of tension and hostility. The examined Arabic texts reveal a
+    fragmented perception of the Jew in eleventh-century al-Andalus. They depict
+    seemingly contradictory figures at whose poles are an intelligent, skilled,
+    and noble Jew deserving of homage and a vile, stupid, and fiendish enemy of
+    God and Islam. For their part, the Hebrew and Judeo-Arabic texts display a
+    deep-seated reluctance to portray Muslims in any light at all. Brann
+    cogently demonstrates that these representations of Jews and Muslims--each
+    of which is concerned with issues of sovereignty and the exercise of
+    power--reflect the shifting, fluctuating, and ambivalent relations between
+    elite members of two of the ethno-religious communities of al-Andalus.
+    Brann's accessible prose is enriched by his splendid translations; the
+    original texts are also included. This book is the first to study the
+    construction of social meaning in Andalusi Arabic, Judeo-Arabic, and Hebrew
+    literary texts and historical chronicles. The novel approach illuminates
+    nuances of respect, disinterest, contempt, and hatred reflected in the
+    relationship between Muslims and Jews in medieval Spain.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Brann
+      given: Ross
+  citation-key: brannPowerPortrayalRepresentations2009
+  DOI: 10.1515/9781400825240
+  ISBN: 978-1-4008-2524-0
+  issued:
+    - year: 2009
+      month: 12
+      day: 21
+  language: en
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  publisher: Princeton University Press
+  source: www.degruyterbrill.com
+  title: >-
+    Power in the Portrayal: Representations of Jews and Muslims in Eleventh- and
+    Twelfth-Century Islamic Spain
+  title-short: Power in the Portrayal
+  type: book
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9781400825240/html
+
+- id: cohenChristianAdversarySolomon1980
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Cohen
+      given: Jeremy
+  citation-key: cohenChristianAdversarySolomon1980
+  container-title: The Jewish Quarterly Review
+  container-title-short: The Jewish Quarterly Review
+  DOI: 10.2307/1453941
+  ISSN: '00216682'
+  issue: '1'
+  issued:
+    - year: 1980
+      month: 7
+  language: en
+  page: '48'
+  source: DOI.org (Crossref)
+  title: The Christian Adversary of Solomon Ibn Adret
+  type: article-journal
+  URL: https://www.jstor.org/stable/1453941
+  volume: '71'
+
+- id: DuranSimonBen
+  abstract: '"Duran, Simon ben Ṣemaḥ" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  citation-key: DuranSimonBen
+  container-title: referenceworks
+  DOI: 10.1163/1878-9781_ejiw_COM_0006800
+  language: en
+  title: Duran, Simon ben Ṣemaḥ
+  type: webpage
+  URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0006800.xml
+
 - id: fierroIbnHazmJewish2013
   accessed:
     - year: 2025
@@ -111,6 +255,33 @@ references:
   type: chapter
   URL: https://brill.com/display/book/edcoll/9789004243101/B9789004243101_019.xml
 
+- id: hamesItTakesThree2010
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Hames
+      given: Harvey J.
+  citation-key: hamesItTakesThree2010
+  container-title: Al-Andalus, Sepharad and Medieval Iberia
+  ISBN: 978-90-474-4154-0
+  issued:
+    - year: 2010
+      month: 1
+      day: 1
+  language: en
+  page: 43-68
+  publisher: Brill
+  section: Al-Andalus, Sepharad and Medieval Iberia
+  source: brill.com
+  title: >-
+    It Takes Three To Tango: Ramon Llull, Solomon Ibn Adret And Alfonso Of
+    Valladolid Debate The Trinity
+  title-short: It Takes Three To Tango
+  type: chapter
+  URL: https://brill.com/display/book/9789047441540/Bej.9789004179196.i-276_005.xml
+
 - id: hamesJewAmongstChristians2010
   accessed:
     - year: 2025
@@ -132,12 +303,261 @@ references:
   page: 203-219
   source: DOI.org (Crossref)
   title: >-
-    A Jew amongst Christians and Muslims: introspection in Solomon ibn Adret's
+    A Jew amongst Christians and Muslims: Introspection in Solomon ibn Adret's
     response to ibn Hazm
   title-short: A Jew amongst Christians and Muslims
   type: article-journal
-  URL: https://doi.org/10.1080/09518967.2010.536667
+  URL: >-
+    https://research-ebsco-com.proxy.ub.uni-frankfurt.de/c/bjlvpg/search/details/fajljh7zi5
   volume: '25'
+
+- id: ibn-kammunaIbnKammunasExaminationThree1971
+  author:
+    - family: Ibn-Kammūna
+      given: Saʿd Ibn-Manṣūr (Verfasser)
+    - family: Perlmann
+      given: Moshe (Herausgeber)
+  citation-key: ibn-kammunaIbnKammunasExaminationThree1971
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-520-01658-3
+  issued:
+    - year: 1971
+  number-of-pages: XI, 160 Seiten
+  publisher: Univ. of Calif. Press
+  publisher-place: Berkeley, Calif.
+  source: COinS
+  title: >-
+    Ibn-Kammuna's Examination of the three faiths : a thirteenth century essay
+    in the comparative study of religion
+  title-short: Ibn-Kammuna's Examination of the three faiths
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB060182830
+
+- id: IbnDaudAbraham
+  abstract: '"Ibn Da’ud, Abraham ben David ha-Levi" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  citation-key: IbnDaudAbraham
+  container-title: referenceworks
+  DOI: 10.1163/1878-9781_ejiw_COM_0010490
+  language: en
+  title: Ibn Da’ud, Abraham ben David ha-Levi
+  type: webpage
+  URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0010490.xml
+
+- id: IbnKammunaSad
+  abstract: "\"Ibn Kammūna, Saʿd \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\" published on  by Brill."
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  citation-key: IbnKammunaSad
+  container-title: referenceworks
+  DOI: 10.1163/1878-9781_ejiw_COM_0010770
+  language: en
+  title: Ibn Kammūna, Saʿd
+  type: webpage
+  URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0010770.xml
+
+- id: InterreligiousPolemicsMedieval2025
+  citation-key: InterreligiousPolemicsMedieval2025
+  issued:
+    - year: 2025
+  language: en
+  source: Zotero
+  title: >-
+    Interreligious Polemics in Medieval Spain: Biblical Interpretation between
+    Ibn Ḥazm, Shlomoh ibn Adret, and Shimʿon ben Ṣemaḥ Duran
+  type: article-journal
+  URL: https://www.jstor.org/stable/23365223
+
+- id: monferrersalaIbnHazm2010
+  abstract: '"Ibn Ḥazm" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Monferrer Sala
+      given: Juan Pedro
+  citation-key: monferrersalaIbnHazm2010
+  container-title: Christian Muslim Relations Online I
+  DOI: 10.1163/1877-8054_cmri_COM_23430
+  editor:
+    - family: Thomas
+      given: David
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 3
+      day: 24
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Ibn Ḥazm
+  type: chapter
+  URL: >-
+    https://referenceworks-brill-com.proxy.ub.uni-frankfurt.de/display/entries/CMRO/COM-23430.xml
+
+- id: monferrersalaKitabAlfisalFi2010
+  abstract: '"Ibn Ḥazm" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Monferrer Sala
+      given: Juan Pedro
+  citation-key: monferrersalaKitabAlfisalFi2010
+  container-title: Christian Muslim Relations Online I
+  DOI: 10.1163/1877-8054_cmri_COM_23431
+  editor:
+    - family: Thomas
+      given: David
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 3
+      day: 24
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Kitāb al-fiṣal fī l-milal wa-l-ahwāʾ wa-l-niḥal
+  type: chapter
+  URL: >-
+    https://referenceworks-brill-com.proxy.ub.uni-frankfurt.de/display/entries/CMRO/COM-23431.xml
+
+- id: naor2008ma
+  author:
+    - family: Naor
+      given: Bezalel
+  citation-key: naor2008ma
+  container-title: 'Spring Valley: Orot'
+  issued:
+    - year: 2008
+  title: Ma’amar al yishma ‘el. Rabbi solomon ben abraham ibn adret
+  type: article-journal
+
+- id: NethanelFayyumi
+  abstract: '"Nethanel Fayyūmī" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  citation-key: NethanelFayyumi
+  container-title: referenceworks
+  DOI: 10.1163/1878-9781_ejiw_SIM_0016750
+  language: en
+  title: Nethanel Fayyūmī
+  type: webpage
+  URL: https://referenceworks.brill.com/display/entries/EJIO/SIM-0016750.xml
+
+- id: perlesSalomoBenAbraham1863
+  author:
+    - family: Perles
+      given: Perets ben Barukh Asher
+  citation-key: perlesSalomoBenAbraham1863
+  issued:
+    - year: 1863
+  language: iw
+  number-of-pages: '166'
+  source: Google Books
+  title: >-
+    R. Salomo ben Abraham ben Adereth, Sein Leben und seine Schriften: nebst
+    handschriftlichen Beilagen
+  title-short: R. Salomo ben Abraham ben Adereth, Sein Leben und seine Schriften
+  type: book
+
+- id: perlmannEleventhCenturyAndalusianAuthors1948
+  accessed:
+    - year: 2025
+      month: 10
+      day: 14
+  author:
+    - family: Perlmann
+      given: M.
+  citation-key: perlmannEleventhCenturyAndalusianAuthors1948
+  container-title: Proceedings of the American Academy for Jewish Research
+  DOI: 10.2307/3622201
+  ISSN: 0065-6798
+  issued:
+    - year: 1948
+  page: 269-290
+  publisher: American Academy for Jewish Research
+  source: JSTOR
+  title: Eleventh-Century Andalusian Authors on the Jews of Granada
+  type: article-journal
+  URL: https://www.jstor.org/stable/3622201
+  volume: '18'
+
+- id: pulciniExegesisPolemicalDiscourse1998
+  abstract: >-
+    In the history of relations among Islam, Christianity, and Judaism, the
+    encounter in medieval Spain stands out as particularly noteworthy for its
+    intensity and creativity. This interaction generated many polemical texts
+    presenting the competing claims of the three monotheistic faiths. One such
+    text is the Treatise on Obvious Contradictions and Evident Lies, by the
+    Muslim scholar Abu Mudhammad 'Ali ibn Hazm al-Andalusi (d. 1064). This study
+    makes the content of the Treatise available to English speakers for the
+    first time, providing a detailed description of the work and an assessment
+    of its significance. Theodore Pulcini argues that Ibn Hazm's polemical
+    biblical exegesis is best understood within the centuries-old tradition in
+    which Muslim authors evaluated the Jewish and Christian scriptures.
+    Analyzing the historical and sociocultural dynamics of eleventh-century
+    Islamic Spain, he contends that Ibn Hazm wrote the Treatise for the purpose
+    of effecting societal reform.
+  author:
+    - family: Pulcini
+      given: Theodore
+  citation-key: pulciniExegesisPolemicalDiscourse1998
+  ISBN: 978-0-7885-0395-5
+  issued:
+    - year: 1998
+  language: en
+  number-of-pages: '224'
+  publisher: Scholars Press
+  source: Google Books
+  title: 'Exegesis as Polemical Discourse: Ibn Ḥazm on Jewish and Christian Scriptures'
+  title-short: Exegesis as Polemical Discourse
+  type: book
+
+- id: safranDefiningBoundariesAlAndalus2013
+  author:
+    - family: Safran
+      given: Janina M. (Verfasser)
+  citation-key: safranDefiningBoundariesAlAndalus2013
+  event-place: Baltimore, Md.
+  ISBN: 978-0-8014-6801-8
+  issued:
+    - year: 2013
+  number-of-pages: 1 Online-Ressource (264 pages)
+  publisher: Cornell University Press
+  publisher-place: Baltimore, Md.
+  source: COinS
+  title: >-
+    Defining Boundaries in al-Andalus : Muslims, Christians, and Jews in Islamic
+    Iberia
+  title-short: Defining Boundaries in al-Andalus
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fmuse.jhu.edu%2Fbook%2F24140%2F
+
+- id: steinschneiderIslamUndJudenthum1880
+  author:
+    - family: Steinschneider
+      given: Moritz
+  citation-key: steinschneiderIslamUndJudenthum1880
+  container-title: Magazin für die Wissenschaft des Judenthums
+  issued:
+    - year: 1880
+  page: '1'
+  source: Google Scholar
+  title: 'Islam und Judenthum: Kritik des Islam von Simon Duran (1423)'
+  title-short: Islam und Judenthum
+  type: article-journal
+  volume: '7'
 
 - id: thomasChristianMuslimRelationsBibliographical2009
   abstract: >-
@@ -164,4 +584,50 @@ references:
   title: 'Christian-Muslim Relations: A Bibliographical History. Volume 4 (1200–1350)'
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB308341171
+
+- id: thomasChristianMuslimRelationsBibliographical2009a
+  abstract: >-
+    Christian-Muslim Relations, a Bibliographical History 1 (CMR1) is a history
+    of all the known works on Christian-Muslim relations from 600 to 1500. It
+    comprises introductory essays and over 200 detailed entries containing
+    descriptions, assessments and compehensive bibliographical details of
+    individual works.
+  author:
+    - family: Thomas
+      given: David
+    - family: Mallett
+      given: Alexander
+  citation-key: thomasChristianMuslimRelationsBibliographical2009a
+  event-place: Leiden
+  ISBN: 978-90-04-16975-3
+  issued:
+    - year: 2009
+      month: 11
+      day: 30
+  language: en
+  number-of-pages: '977'
+  publisher: Brill
+  publisher-place: Leiden
+  source: Google Books
+  title: 'Christian-Muslim relations: A bibliographical history. Volume 3 (1050-1200)'
+  title-short: Christian-Muslim relations 3
+  type: book
+
+- id: wassersteinRiseFallPartykings1985
+  author:
+    - family: Wasserstein
+      given: David J. 1951-
+  citation-key: wassersteinRiseFallPartykings1985
+  event-place: Princeton, N.J.
+  ISBN: 978-0-691-05436-0
+  issued:
+    - year: 1985
+  publisher: Princeton Univ. Pr.
+  publisher-place: Princeton, N.J.
+  source: COinS
+  title: >-
+    The rise and fall of the party-kings: politics and society in Islamic Spain
+    1002 - 1086
+  title-short: The rise and fall of the party-kings
+  type: book
 ...
