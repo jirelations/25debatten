@@ -99,6 +99,8 @@ references:
   publisher-place: New York
   title: Medieval Muslim Polemics against the Jewish Scriptures
   type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/02+-+Adang+-+1999+-+Medieval+Muslim+Polemics+against+the+Jewish+Scriptures.pdf
 
 - id: adangMuslimWritersJudaism1996
   author:
@@ -115,6 +117,7 @@ references:
   title: 'Muslim Writers on Judaism and the Hebrew Bible: From Ibn Rabban to Ibn Hazm'
   title-short: Muslim writers on Judaism and the Hebrew Bible
   type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB046814078
 
 - id: adangPolemicsMuslimJewish2010
   abstract: '"Polemics (Muslim-Jewish)" published on  by Brill.'
@@ -696,6 +699,23 @@ references:
   source: Google Books
   title: 'Christian-Muslim relations: A bibliographical history. Volume 3 (1050-1200)'
   title-short: Christian-Muslim relations 3
+  type: book
+
+- id: waardenburgMuslimsOthersRelations2003
+  author:
+    - family: Waardenburg
+      given: Jean Jacques
+  citation-key: waardenburgMuslimsOthersRelations2003
+  event-place: Berlin [u.a.]
+  ISBN: 978-3-11-017627-8
+  issued:
+    - year: 2003
+  number-of-pages: XX, 519 S.
+  publisher: de Gruyter
+  publisher-place: Berlin [u.a.]
+  source: COinS
+  title: 'Muslims and others : relations in context'
+  title-short: Muslims and others
   type: book
 
 - id: wassersteinRiseFallPartykings1985
