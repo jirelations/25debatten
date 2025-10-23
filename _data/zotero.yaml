@@ -424,6 +424,84 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/23365223
 
+- id: kunanbaevaContemporaryApproachesResearching2024
+  abstract: >-
+    The article is dedicated to identifying the approaches to researching
+    polemic discourse and the general idea of polemics. The concept of "polemic"
+    is explored through linguistic and cultural lenses, considering its
+    definitions in both English and Russian. While in English, it is primarily
+    understood as a form of written argumentation, in Russian, it encompasses a
+    broader range of communicative situations, including debates and
+    discussions. The historical evolution of polemic writing is examined,
+    tracing its origins to religious debates during the Middle Ages. Early
+    polemics were characterized by aggressive language and one-sided arguments,
+    often lacking consideration for opposing viewpoints. Translation played a
+    significant role in shaping these debates, as linguistic barriers hindered
+    mutual understanding. Despite changes over time, modern polemic writing
+    continues to be subjective and aggressive, although contemporary examples
+    often incorporate irony, satire, and grotesque elements. The scientific
+    novelty of this article lies in the fact of addressing polemic discourse
+    from different angles, considering the cultural implications which may
+    influence the dichotomy in researching this study object. Theoretical
+    analysis, comparison, and contrast methods are employed to review the body
+    of research related to polemics, providing insights into its complexity and
+    evolving nature. The practical significance of the research results lies in
+    their contribution to the understanding of polemic discourse, which has
+    implications for communication strategies and cross-cultural communication.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 23
+  author:
+    - family: Кунанбаева
+      given: С. С.
+    - family: Саутов
+      given: Ф. Н.
+  citation-key: kunanbaevaContemporaryApproachesResearching2024
+  container-title: «Абылай хан атындағы ҚазХҚжәнеӘТУ Хабаршысы Филология ғылымдары сериясы
+  DOI: 10.48371/PHILS.2024.73.2.001
+  ISSN: 2709-9245
+  issue: '2'
+  issued:
+    - year: 2024
+      month: 6
+      day: 27
+  language: en
+  license: 'Авторлық құқық (c) 2024 Bulletin: Philological Sciences'
+  source: bulletin-philology.ablaikhan.kz
+  title: Contemporary approaches to researching polemics and polemic discourse
+  type: article-journal
+  URL: https://bulletin-philology.ablaikhan.kz/index.php/j1/article/view/1574
+  volume: '73'
+
+- id: menonWhatPolemicsReligion2018
+  accessed:
+    - year: 2025
+      month: 10
+      day: 23
+  author:
+    - family: Menon
+      given: Nandagopal R.
+  citation-key: menonWhatPolemicsReligion2018
+  container-title: History of Religions
+  container-title-short: History of Religions
+  DOI: 10.1086/699258
+  ISSN: 0018-2710, 1545-6935
+  issue: '2'
+  issued:
+    - year: 2018
+      month: 11
+  language: en
+  page: 128-164
+  source: DOI.org (Crossref)
+  title: >-
+    What Do Polemics Do? Religion, Citizenship, and Secularism in South Indian
+    Islam
+  title-short: What Do Polemics Do?
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/10.1086/699258
+  volume: '58'
+
 - id: monferrersalaIbnHazm2010
   abstract: '"Ibn Ḥazm" published on  by Brill.'
   accessed:
@@ -632,6 +710,51 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fmuse.jhu.edu%2Fbook%2F24140%2F
 
+- id: steckelVergingPolemicalInterdisciplinary2018
+  abstract: >-
+    The present article attempts to take stock of the different definitions and
+    connotations of the concept of religious »polemic« in order to encourage a
+    more interdisciplinary debate on this topic. It argues that the
+    interdisciplinary research fields engaging with religious polemics could
+    generate important historical perspectives on current conflict cultures, and
+    appear to be on the verge of an expansion of the horizon towards the global,
+    connecting an extant, highly active research field on religious encounter in
+    the Euro-Mediterranean area to the study of Asia and Africa. To be able to
+    realize an integrative perspective and to write a comparative and entangled
+    history of religious polemics, it seems necessary to reflect on the
+    differences and gaps marking the overlapping research fields. The article
+    therefore offers a brief historiographical sketch concerning the concept of
+    »polemics«, and then offers a preliminary list of constituents or dimensions
+    of the polemical which have been highlighted in the different research
+    fields. In a concluding section, case studies from the accompanying
+    contributions in this volume furnish examples on possible further
+    perspectives, with an emphasis on non-traditional approaches cutting across
+    established research fields.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 23
+  author:
+    - family: Steckel
+      given: Sita
+  citation-key: steckelVergingPolemicalInterdisciplinary2018
+  container-title: Medieval Worlds
+  container-title-short: medievalworlds
+  DOI: 10.1553/medievalworlds_no7_2018s2
+  ISSN: 2412-3196, 2412-3196
+  issue: Volume 7. 2018
+  issued:
+    - year: 2018
+  language: en
+  page: 2-60
+  source: DOI.org (Crossref)
+  title: >-
+    Verging on the polemical. Towards an interdisciplinary approach to medieval
+    religious polemic
+  type: article-journal
+  URL: https://hw.oeaw.ac.at?arp=0x00390b10
+  volume: medieval worlds
+
 - id: steinschneiderIslamUndJudenthum1880
   author:
     - family: Steinschneider
@@ -700,6 +823,16 @@ references:
   title: 'Christian-Muslim relations: A bibliographical history. Volume 3 (1050-1200)'
   title-short: Christian-Muslim relations 3
   type: book
+
+- id: versteeghGreekTranslationsQur`an
+  author:
+    - family: Versteegh
+      given: Kies
+  citation-key: versteeghGreekTranslationsQur`an
+  language: en
+  source: Zotero
+  title: Greek Translations of the Qurʾān in Christian Polemics (9th century A.D.)
+  type: article-journal
 
 - id: waardenburgMuslimsOthersRelations2003
   author:
