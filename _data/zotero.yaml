@@ -27,6 +27,28 @@ references:
   type: chapter
   URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0010700
 
+- id: adangIbnHazmAuthors1996
+  author:
+    - family: Adang
+      given: Camilla
+  citation-key: adangIbnHazmAuthors1996
+  container-author:
+    - family: Adang
+      given: Camilla
+  container-title: 'Muslim Writers on Judaism and the Hebrew Bible: From Ibn Rabban to Ibn Hazm'
+  event-place: New York
+  ISBN: 978-90-04-10034-3
+  issued:
+    - year: 1996
+  page: 23-69
+  publisher: Brill
+  publisher-place: New York
+  source: Open WorldCat
+  title: Ibn Ḥazm [in The Authors and their Works]
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/04+-+Adang+-+1996+-+02+-+Muslim+Writers+on+Judaism+and+the+Hebrew+Bible+From+Ibn+Rabban+to+Ibn+Hazm.pdf
+
 - id: adangIbnHazmCordoba2013
   citation-key: adangIbnHazmCordoba2013
   editor:
@@ -357,6 +379,38 @@ references:
   type: chapter
   URL: https://brill.com/display/book/edcoll/9789004243101/B9789004243101_019.xml
 
+- id: gallagherBiblicalCanonLists2017
+  abstract: >-
+    The Bible took shape over the course of centuries, and today Christian
+    groups continue to disagree over details of its contents. The differences
+    among these groups typically involve the Old Testament, as they mostly
+    accept the same 27-book New Testament. An essential avenue for understanding
+    the development of the Bible are the many early lists of canonical books
+    drawn up by Christians and, occasionally, Jews. Despite the importance of
+    these early lists of books, they have remained relatively inaccessible. This
+    comprehensive volume redresses this unfortunate situation by presenting the
+    early Christian canon lists all together in a single volume
+  author:
+    - family: Gallagher
+      given: Edmon L.
+    - family: Meade
+      given: John Daniel
+  citation-key: gallagherBiblicalCanonLists2017
+  DOI: 10.1093/oso/9780198792499.001.0001
+  edition: First edition
+  event-place: Oxford
+  ISBN: 978-0-19-183449-3
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '1'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: K10plus ISBN
+  title: 'The biblical canon lists from early Christianity: texts and analysis'
+  title-short: The biblical canon lists from early Christianity
+  type: book
+
 - id: hamesItTakesThree2010
   accessed:
     - year: 2025
@@ -524,6 +578,41 @@ references:
   type: article-journal
   URL: https://bulletin-philology.ablaikhan.kz/index.php/j1/article/view/1574
   volume: '73'
+
+- id: mcdonaldCanonDebate2019
+  abstract: >-
+    "What does it mean to speak of a 'canon' of scripture? How, when, and where
+    did the canon of the Hebrew Bible come into existence? Why does it have
+    three divisions? What canon was in use among the Jews of the Hellenistic
+    diaspora? At Qumran? In Roman Palestine? Among the rabbis? What Bible did
+    Jesus and his disciples know and use? How was the New Testament canon formed
+    and closed? What role was played by Marcion? By gnostics? By the church
+    fathers? What did the early church make of the apocrypha and pseudepigrapha?
+    By what criteria have questions of canonicity been decided? Are these past
+    decisions still meaningful faith communities today? Are they open to
+    revision? These and other debated questions are addressed by an
+    international roster of outstanding experts on early Judaism and early
+    Christianity, writing from diverse affiliations and perspectives, who
+    present the history of discussion and offer their own assessments of the
+    current status."--Publisher statement
+  citation-key: mcdonaldCanonDebate2019
+  editor:
+    - family: McDonald
+      given: Lee Martin
+    - family: Sanders
+      given: James A.
+  event-place: Grand Rapids, Michigan
+  ISBN: 978-1-5409-6229-4
+  issued:
+    - year: 2019
+  language: eng
+  note: 'OCLC: 1090386183'
+  number-of-pages: '662'
+  publisher: Baker Academic
+  publisher-place: Grand Rapids, Michigan
+  source: Open WorldCat
+  title: The canon debate
+  type: book
 
 - id: menonWhatPolemicsReligion2018
   accessed:
@@ -919,6 +1008,33 @@ references:
     1002 - 1086
   title-short: The rise and fall of the party-kings
   type: book
+
+- id: whittingham53IbnHazm2020
+  accessed:
+    - year: 2025
+      month: 10
+      day: 30
+  author:
+    - family: Whittingham
+      given: Martin
+  citation-key: whittingham53IbnHazm2020
+  container-author:
+    - family: Whittingham
+      given: Martin (Verfasser)
+  container-title: 'A History of Muslim Views of the Bible: The First Four Centuries'
+  ISBN: 978-3-11-033588-0
+  issued:
+    - year: 2020
+      month: 11
+      day: 23
+  language: en
+  page: 150-161
+  publisher: De Gruyter
+  source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
+  title: 5.3 Ibn Ḥazm
+  type: chapter
+  URL: >-
+    https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110335880-008/html
 
 - id: whittinghamHistoryMuslimViews2021
   author:
