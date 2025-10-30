@@ -27,6 +27,28 @@ references:
   type: chapter
   URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0010700
 
+- id: adangIbnHazmCordoba2013
+  citation-key: adangIbnHazmCordoba2013
+  editor:
+    - family: Adang
+      given: Camilla (Herausgeber)
+    - family: Fierro
+      given: Maribel
+    - family: Schmidtke
+      given: Sabine
+  event-place: Leiden
+  ISBN: 978-90-04-23424-6
+  issued:
+    - year: 2013
+  number-of-pages: XXI, 804 Seiten
+  publisher: Brill
+  publisher-place: Leiden
+  source: COinS
+  title: 'Ibn Ḥazm of Cordoba : The life and works of a controversial thinker'
+  title-short: Ibn H̥azm of Cordoba
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB309406994
+
 - id: adangJewishReplyIbn2002
   abstract: >-
     This article deals with, and presents sections from a tract written by the
@@ -144,6 +166,35 @@ references:
   title: Polemics (Muslim-Jewish)
   type: chapter
   URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0017750
+
+- id: adangShurayhAlRuayniTransmission2013
+  abstract: >-
+    "Shurayḥ al-Ruʿaynī and the Transmission of the Works of Ibn Ḥazm" published
+    on 01 Jan 2013 by Brill.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 30
+  author:
+    - family: Adang
+      given: Camilla
+  citation-key: adangShurayhAlRuayniTransmission2013
+  container-title: Ibn Ḥazm of Cordoba
+  DOI: 10.1163/9789004243101_020
+  ISBN: 978-90-04-24310-1
+  issued:
+    - year: 2013
+      month: 1
+      day: 1
+  language: en
+  page: 511-537
+  publisher: Brill
+  section: Ibn Ḥazm of Cordoba
+  source: brill-1com-140tzdp8p04a8.proxy.fid-lizenzen.de
+  title: Shurayḥ al-Ruʿaynī and the Transmission of the Works of Ibn Ḥazm
+  type: chapter
+  URL: >-
+    https://brill-1com-140tzdp8p04a8.proxy.fid-lizenzen.de/display/book/edcoll/9789004243101/B9789004243101_020.xml
 
 - id: bousekEntangledArgumentsSurvey2021
   accessed:
