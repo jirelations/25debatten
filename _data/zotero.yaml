@@ -40,7 +40,7 @@ references:
   ISBN: 978-90-04-10034-3
   issued:
     - year: 1996
-  page: 23-69
+  page: 23–69
   publisher: Brill
   publisher-place: New York
   source: Open WorldCat
@@ -117,7 +117,7 @@ references:
     - year: 2002
   language: en
   license: https://www.openedition.org/12554
-  page: 179-209
+  page: 179–209
   publisher: Casa de Velázquez
   publisher-place: Madrid
   source: OpenEdition Books
@@ -138,7 +138,7 @@ references:
   event-place: New York
   issued:
     - year: 1999
-  page: 143-159
+  page: 143–159
   publisher: Oxford University Press
   publisher-place: New York
   title: Medieval Muslim Polemics against the Jewish Scriptures
@@ -209,7 +209,7 @@ references:
       month: 1
       day: 1
   language: en
-  page: 511-537
+  page: 511–537
   publisher: Brill
   section: Ibn Ḥazm of Cordoba
   source: brill-1com-140tzdp8p04a8.proxy.fid-lizenzen.de
@@ -371,7 +371,7 @@ references:
       month: 1
       day: 1
   language: en
-  page: 497-509
+  page: 497–509
   publisher: Brill
   section: Ibn Ḥazm of Cordoba
   source: brill.com
@@ -427,7 +427,7 @@ references:
       month: 1
       day: 1
   language: en
-  page: 43-68
+  page: 43–68
   publisher: Brill
   section: Al-Andalus, Sepharad and Medieval Iberia
   source: brill.com
@@ -456,7 +456,7 @@ references:
     - year: 2010
       month: 12
   language: en
-  page: 203-219
+  page: 203–219
   source: DOI.org (Crossref)
   title: >-
     A Jew amongst Christians and Muslims: Introspection in Solomon ibn Adret's
@@ -502,6 +502,20 @@ references:
   title: Ibn Da’ud, Abraham ben David ha-Levi
   type: webpage
   URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0010490.xml
+
+- id: ibnhazmKitabAlfisalFi
+  author:
+    - family: Ibn Ḥazm
+      given: Abū Muḥammad ʿAlī ibn Aḥmad ibn Saʿīd
+  citation-key: ibnhazmKitabAlfisalFi
+  language: ar, de
+  title: Kitāb al-fiṣal fī l-milal wa-l-ahwāʾ wa-l-niḥal (Auszüge)
+  translator:
+    - family: Alsoufi
+      given: Rana
+  type: book
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/04+-+Ibn+Hazm_al-Fisal+fi+al-Milal+wa-l-Ahwa+wa-l-Nihal.pdf
 
 - id: IbnKammunaSad
   abstract: "\"Ibn Kammūna, Saʿd \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\" published on  by Brill."
@@ -632,7 +646,7 @@ references:
     - year: 2018
       month: 11
   language: en
-  page: 128-164
+  page: 128–164
   source: DOI.org (Crossref)
   title: >-
     What Do Polemics Do? Religion, Citizenship, and Secularism in South Indian
@@ -790,7 +804,7 @@ references:
   ISSN: 0065-6798
   issued:
     - year: 1948
-  page: 269-290
+  page: 269–290
   publisher: American Academy for Jewish Research
   source: JSTOR
   title: Eleventh-Century Andalusian Authors on the Jews of Granada
@@ -886,7 +900,7 @@ references:
   issued:
     - year: 2018
   language: en
-  page: 2-60
+  page: 2–60
   source: DOI.org (Crossref)
   title: >-
     Verging on the polemical. Towards an interdisciplinary approach to medieval
@@ -1028,7 +1042,7 @@ references:
       month: 11
       day: 23
   language: en
-  page: 150-161
+  page: 150–161
   publisher: De Gruyter
   source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
   title: 5.3 Ibn Ḥazm
@@ -1073,7 +1087,7 @@ references:
       month: 11
       day: 23
   language: en
-  page: 1-20
+  page: 1–20
   publisher: De Gruyter
   publisher-place: Berlin
   source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
