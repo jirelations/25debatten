@@ -354,6 +354,105 @@ references:
   type: webpage
   URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0006800.xml
 
+- id: eemerenAnalysisReconstruction2003
+  citation-key: eemerenAnalysisReconstruction2003
+  container-author:
+    - family: Eemeren
+      given: Frans Hendrik
+      dropping-particle: van
+    - family: Grootendorst
+      given: Rob
+  container-title: 'A Systematic Theory of Argumentation: The Pragma-Dialectical Approach'
+  event-place: New York
+  ISBN: 978-0-521-53772-8
+  issued:
+    - year: 2003
+      month: 11
+      day: 17
+  language: en
+  publisher: Cambridge University Press
+  publisher-place: New York
+  source: Google Books
+  title: Analysis as Reconstruction
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/services/aop-cambridge-core/content/view/EAB4098D257687E36936683A238AB5B0/9780511616389c5_p95-122_CBO.pdf/analysis-as-reconstruction.pdf
+
+- id: eemerenArgumentationCommunicationFallacies1992
+  abstract: >-
+    This volume gives a theoretical account of the problem of analyzing and
+    evaluating argumentative discourse. After placing argumentation in a
+    communicative perspective, and then discussing the fallacies that occur when
+    certain rules of communication are violated, the authors offer an
+    alternative to both the linguistically-inspired descriptive and
+    logically-inspired normative approaches to argumentation.  The authors
+    characterize argumentation as a complex speech act in a critical discussion
+    aimed at resolving a difference of opinion. The various stages of a critical
+    discussion are outlined, and the communicative and interactional aspects of
+    the speech acts performed in resolving a simple or complex dispute are
+    discussed. After dealing with crucial aspects of analysis and linking the
+    evaluation of argumentative discourse to the analysis, the authors identify
+    the fallacies that can occur at various stages of discussion. Their general
+    aim is to elucidate their own pragma- dialectical perspective on the
+    analysis and evaluation of argumentative discourse, bringing together
+    pragmatic insight concerning speech acts and dialectical insight concerning
+    critical discussion.
+  author:
+    - family: Eemeren
+      given: Frans Hendrik
+      dropping-particle: van
+    - family: Grootendorst
+      given: Rob
+  citation-key: eemerenArgumentationCommunicationFallacies1992
+  event-place: Hillsdale, N.J.
+  ISBN: 978-0-8058-1069-1
+  issued:
+    - year: 1992
+  language: en
+  number-of-pages: '252'
+  publisher: L. Erlbaum
+  publisher-place: Hillsdale, N.J.
+  source: Google Books
+  title: >-
+    Argumentation, Communication, and Fallacies: A Pragma-Dialectical
+    Perspective
+  title-short: Argumentation, Communication, and Fallacies
+  type: book
+
+- id: eemerenSystematicTheoryArgumentation2003
+  abstract: >-
+    Two authorities in argumentation theory present a view of argumentation as a
+    means of resolving differences of opinion by testing the acceptability of
+    the disputed positions. Their model of a "critical discussion" serves as a
+    theoretical tool for analyzing, evaluating and producing argumentative
+    discourse. This major contribution to the study of argumentation will be of
+    particular value to professionals and graduate students in speech
+    communication, informal logic, rhetoric, critical thinking, linguistics, and
+    philosophy.
+  author:
+    - family: Eemeren
+      given: Frans Hendrik
+      dropping-particle: van
+    - family: Grootendorst
+      given: Rob
+  citation-key: eemerenSystematicTheoryArgumentation2003
+  event-place: New York
+  ISBN: 978-0-521-53772-8
+  issued:
+    - year: 2003
+      month: 11
+      day: 17
+  language: en
+  number-of-pages: '228'
+  publisher: Cambridge University Press
+  publisher-place: New York
+  source: Google Books
+  title: 'A Systematic Theory of Argumentation: The Pragma-Dialectical Approach'
+  title-short: A Systematic Theory of Argumentation
+  type: book
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/systematic-theory-of-argumentation/C3A069AB7E067D451BE58744A444B570
+
 - id: fierroIbnHazmJewish2013
   accessed:
     - year: 2025
