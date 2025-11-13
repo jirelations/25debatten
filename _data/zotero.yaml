@@ -378,6 +378,37 @@ references:
   URL: >-
     https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/services/aop-cambridge-core/content/view/EAB4098D257687E36936683A238AB5B0/9780511616389c5_p95-122_CBO.pdf/analysis-as-reconstruction.pdf
 
+- id: eemerenAnalyzingEvaluatingArgumentative1992
+  author:
+    - family: Eemeren
+      given: Frans Hendrik
+      dropping-particle: van
+    - family: Grootendorst
+      given: Rob
+  citation-key: eemerenAnalyzingEvaluatingArgumentative1992
+  container-title: >-
+    Argumentation, Communication, and Fallacies: A Pragma-Dialectical
+    Perspective
+  editor:
+    - family: Eemeren
+      given: Frans Hendrik
+      dropping-particle: van
+    - family: Grootendorst
+      given: Rob
+  event-place: Hillsdale, N.J.
+  ISBN: 978-0-8058-1069-1
+  issued:
+    - year: 1992
+  language: en
+  page: 93–106
+  publisher: L. Erlbaum
+  publisher-place: Hillsdale, N.J.
+  source: Google Books
+  title: Analyzing and Evaluating Argumentative Discourse
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/05+-+Van+Eemeren+-+1992+-+Analyzing+and+Evaluating+Argumentative+Discourse.pdf
+
 - id: eemerenArgumentationCommunicationFallacies1992
   abstract: >-
     This volume gives a theoretical account of the problem of analyzing and
