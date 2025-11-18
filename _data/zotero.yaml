@@ -639,13 +639,27 @@ references:
       given: Abū Muḥammad ʿAlī ibn Aḥmad ibn Saʿīd
   citation-key: ibnhazmKitabAlfisalFi
   language: ar, de
-  title: Kitāb al-fiṣal fī l-milal wa-l-ahwāʾ wa-l-niḥal (Auszüge)
+  title: Kitāb al-fiṣal fī l-milal wa-l-ahwāʾ wa-l-niḥal (Auszüge I)
   translator:
     - family: Alsoufi
       given: Rana
   type: book
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/04+-+Ibn+Hazm_al-Fisal+fi+al-Milal+wa-l-Ahwa+wa-l-Nihal.pdf
+
+- id: ibnhazmKitabAlfisalFia
+  author:
+    - family: Ibn Ḥazm
+      given: Abū Muḥammad ʿAlī ibn Aḥmad ibn Saʿīd
+  citation-key: ibnhazmKitabAlfisalFia
+  language: ar, de
+  title: Kitāb al-fiṣal fī l-milal wa-l-ahwāʾ wa-l-niḥal (Auszüge II)
+  translator:
+    - family: Alsoufi
+      given: Rana
+  type: book
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/06+-+Ibn+Hazm_al-Fisal+fi+al-Milal+wa-l-Ahwa+wa-l-Nihal+%28Auszuege+II%29.pdf
 
 - id: IbnKammunaSad
   abstract: "\"Ibn Kammūna, Saʿd \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\" published on  by Brill."
