@@ -541,32 +541,39 @@ references:
   title-short: The biblical canon lists from early Christianity
   type: book
 
-- id: hamesItTakesThree2010
+- id: hamesItTakesThree2009
   accessed:
     - year: 2025
-      month: 10
-      day: 14
+      month: 11
+      day: 20
   author:
     - family: Hames
-      given: Harvey J.
-  citation-key: hamesItTakesThree2010
-  container-title: Al-Andalus, Sepharad and Medieval Iberia
-  ISBN: 978-90-474-4154-0
+      given: Harvey
+  citation-key: hamesItTakesThree2009
+  container-title: Medieval Encounters
+  DOI: 10.1163/157006709X458828
+  ISSN: 1570-0674, 1380-7854
+  issue: 2–4
   issued:
-    - year: 2010
+    - year: 2009
       month: 1
       day: 1
   language: en
-  page: 43–68
+  note: >-
+    reprint: Hames, Harvey J. 2010. “It Takes Three To Tango: Ramon Llull,
+    Solomon Ibn Adret And Alfonso Of Valladolid Debate The Trinity.” In
+    Al-Andalus, Sepharad and Medieval Iberia. Brill.
+    https://brill.com/display/book/9789047441540/Bej.9789004179196.i-276_005.xml.
+  page: 199–224
   publisher: Brill
-  section: Al-Andalus, Sepharad and Medieval Iberia
   source: brill.com
   title: >-
-    It Takes Three To Tango: Ramon Llull, Solomon Ibn Adret And Alfonso Of
-    Valladolid Debate The Trinity
-  title-short: It Takes Three To Tango
-  type: chapter
-  URL: https://brill.com/display/book/9789047441540/Bej.9789004179196.i-276_005.xml
+    It Takes Three to Tango: Ramon Llull, Solomon ibn Adret and Alfonso of
+    Valladolid Debate the Trinity
+  title-short: It Takes Three to Tango
+  type: article-journal
+  URL: https://brill.com/view/journals/me/15/2-4/article-p199_5.xml
+  volume: '15'
 
 - id: hamesJewAmongstChristians2010
   accessed:
@@ -675,16 +682,22 @@ references:
   type: webpage
   URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0010770.xml
 
-- id: InterreligiousPolemicsMedieval2025
-  citation-key: InterreligiousPolemicsMedieval2025
+- id: jacobsInterreligiousPolemicsMedieval2025
+  author:
+    - family: Jacobs
+      given: Martin
+  citation-key: jacobsInterreligiousPolemicsMedieval2025
+  collection-title: Jerusalem Studies in Jewish Thought
+  container-title: 'Gershom Scholem (1897-1982): In memoriam'
   issued:
     - year: 2025
   language: en
+  page: 35–57
   source: Zotero
   title: >-
     Interreligious Polemics in Medieval Spain: Biblical Interpretation between
     Ibn Ḥazm, Shlomoh ibn Adret, and Shimʿon ben Ṣemaḥ Duran
-  type: article-journal
+  type: chapter
   URL: https://www.jstor.org/stable/23365223
 
 - id: kunanbaevaContemporaryApproachesResearching2024
