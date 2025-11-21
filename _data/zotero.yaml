@@ -218,6 +218,30 @@ references:
   URL: >-
     https://brill-1com-140tzdp8p04a8.proxy.fid-lizenzen.de/display/book/edcoll/9789004243101/B9789004243101_020.xml
 
+- id: bousekAbrogationMosaicLaw2014
+  author:
+    - family: Boušek
+      given: Daniel
+  citation-key: bousekAbrogationMosaicLaw2014
+  container-title: 'Jewish Studies in the 21st Century: Prague–Europe–World'
+  editor:
+    - family: Zoufalá
+      given: Marcela
+  event-place: Wiesbaden
+  issued:
+    - year: 2014
+  language: en
+  page: 29–57
+  publisher: Harrasowitz
+  publisher-place: Wiesbaden
+  source: Zotero
+  title: >-
+    The Abrogation of Mosaic Law in Judaism’s Medieval Polemic with Islam:
+    Seʿadyah Gaon, Yaʿqūb al-Qirqisānī, Maimonides
+  type: chapter
+  URL: >-
+    https://www.academia.edu/9383715/The_abrogation_of_Mosaic_Law_in_Judaism_s_medieval_polemic_with_Islam_Se%CA%BFadyah_Gaon_Ya%CA%BFq%C5%ABb_al_Qirqis%C4%81n%C4%AB_Maimonides
+
 - id: bousekEntangledArgumentsSurvey2021
   accessed:
     - year: 2025
@@ -355,13 +379,13 @@ references:
   URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0006800.xml
 
 - id: eemerenAnalysisReconstruction2003
-  citation-key: eemerenAnalysisReconstruction2003
-  container-author:
+  author:
     - family: Eemeren
       given: Frans Hendrik
       dropping-particle: van
     - family: Grootendorst
       given: Rob
+  citation-key: eemerenAnalysisReconstruction2003
   container-title: 'A Systematic Theory of Argumentation: The Pragma-Dialectical Approach'
   event-place: New York
   ISBN: 978-0-521-53772-8
@@ -999,6 +1023,39 @@ references:
   title: 'Exegesis as Polemical Discourse: Ibn Ḥazm on Jewish and Christian Scriptures'
   title-short: Exegesis as Polemical Discourse
   type: book
+
+- id: rothSolomonAbrahamIbn2003
+  abstract: >-
+    Norman Roth, “Solomon b. Abraham Ibn Adret,” in Norman Roth, ed., Medieval
+    Jewish Civilization: An Encyclopedia (New York and London: Routledge, 2003),
+    335-341
+  accessed:
+    - year: 2025
+      month: 11
+      day: 20
+  author:
+    - family: Roth
+      given: Norman
+  citation-key: rothSolomonAbrahamIbn2003
+  container-title: 'Medieval Jewish Civilization: An Encyclopedia'
+  editor:
+    - family: Roth
+      given: Norman
+  event-place: New York
+  issued:
+    - year: 2003
+  language: en
+  page: 335–341
+  publisher: Routledge
+  publisher-place: New York
+  source: www.academia.edu
+  title: Solomon b. Abraham Ibn Adret
+  title-short: >-
+    Norman Roth, “Solomon b. Abraham Ibn Adret,” in Norman Roth, ed., Medieval
+    Jewish Civilization
+  type: chapter
+  URL: >-
+    https://www.academia.edu/45565005/Norman_Roth_Solomon_b_Abraham_Ibn_Adret_in_Norman_Roth_ed_Medieval_Jewish_Civilization_An_Encyclopedia_New_York_and_London_Routledge_2003_335_341
 
 - id: safranDefiningBoundariesAlAndalus2013
   author:
