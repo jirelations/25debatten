@@ -565,6 +565,21 @@ references:
   title-short: The biblical canon lists from early Christianity
   type: book
 
+- id: gibsonOutlineIbnAdrets2025
+  author:
+    - family: Gibson
+      given: Nathan
+  citation-key: gibsonOutlineIbnAdrets2025
+  issued:
+    - year: 2025
+      month: 11
+      day: 27
+  language: en
+  title: Outline of Ibn Adret's arguments
+  type: document
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/07+-+Handout-Ibn+Adret.pdf
+
 - id: hamesItTakesThree2009
   accessed:
     - year: 2025
