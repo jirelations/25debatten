@@ -721,6 +721,59 @@ references:
   type: webpage
   URL: https://referenceworks.brill.com/display/entries/EJIO/COM-0010770.xml
 
+- id: ibntaymiyyaIITahrifCorruption1985
+  author:
+    - family: Ibn Taymiyya
+      given: Aḥmad ibn ʿAbd
+      dropping-particle: al-Ḥalīm
+  citation-key: ibntaymiyyaIITahrifCorruption1985
+  collection-title: Studies in Islamic philosophy and science
+  container-title: >-
+    A Muslim theologian's response to Christianity: Ibn Taymiyya's al-Jawab
+    al-sahih
+  editor:
+    - family: Michel
+      given: Thomas F.
+  event-place: Ann Arbor
+  ISBN: 978-0-88206-058-3
+  issued:
+    - year: 1985
+  language: eng
+  page: 210–254
+  publisher: Caravan Books
+  publisher-place: Ann Arbor
+  source: K10plus ISBN
+  title: 'II. Tahrif: The corruption of the scripture'
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25125388290/CourseNode/93668888136198/12+-+Ibn+Taymiyya+-+1985+-+II.+Tahrif+The+corruption+of+the+scripture.pdf
+
+- id: ibntaymiyyaMuslimTheologiansResponse1985
+  author:
+    - family: Ibn Taymiyya
+      given: Aḥmad ibn ʿAbd
+      dropping-particle: al-Ḥalīm
+  citation-key: ibntaymiyyaMuslimTheologiansResponse1985
+  collection-title: Studies in Islamic philosophy and science
+  editor:
+    - family: Michel
+      given: Thomas F.
+  event-place: Ann Arbor
+  ISBN: 978-0-88206-058-3
+  issued:
+    - year: 1985
+  language: eng
+  number-of-pages: '465'
+  publisher: Caravan Books
+  publisher-place: Ann Arbor
+  source: K10plus ISBN
+  title: >-
+    A Muslim theologian's response to Christianity: Ibn Taymiyya's al-Jawab
+    al-sahih
+  title-short: A Muslim theologian's response to Christianity
+  type: book
+  URL: https://archive.org/details/muslimtheologian0000ibnt
+
 - id: jacobsInterreligiousPolemicsMedieval2025
   author:
     - family: Jacobs
@@ -1152,6 +1205,54 @@ references:
   title-short: Islam und Judenthum
   type: article-journal
   volume: '7'
+
+- id: suleiman2IbnTaymiyyas2019
+  accessed:
+    - year: 2025
+      month: 12
+      day: 2
+  author:
+    - family: Suleiman
+      given: Farid
+  citation-key: suleiman2IbnTaymiyyas2019
+  container-title: Ibn Taymiyya und die Attribute Gottes
+  DOI: 10.1515/9783110623673
+  ISBN: 978-3-11-062367-3
+  issued:
+    - year: 2019
+      month: 5
+      day: 6
+  language: de
+  page: 24–39
+  publisher: De Gruyter
+  source: DOI.org (Crossref)
+  title: 2. Ibn Taymiyyas Leben
+  type: chapter
+  URL: >-
+    https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110623673-002/html
+
+- id: suleimanIbnTaymiyyaUnd2019
+  accessed:
+    - year: 2025
+      month: 12
+      day: 2
+  author:
+    - family: Suleiman
+      given: Farid
+  citation-key: suleimanIbnTaymiyyaUnd2019
+  DOI: 10.1515/9783110623673
+  ISBN: 978-3-11-062367-3
+  issued:
+    - year: 2019
+      month: 5
+      day: 6
+  language: de
+  publisher: De Gruyter
+  source: DOI.org (Crossref)
+  title: Ibn Taymiyya und die Attribute Gottes
+  type: book
+  URL: >-
+    https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110623673/html
 
 - id: thomasChristianMuslimRelationsBibliographical2009
   abstract: >-
