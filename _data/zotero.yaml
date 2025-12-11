@@ -924,6 +924,40 @@ references:
   URL: https://bulletin-philology.ablaikhan.kz/index.php/j1/article/view/1574
   volume: '73'
 
+- id: ludkeCyprus2011
+  abstract: '"Cyprus" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 12
+      day: 11
+  author:
+    - family: Lüdke
+      given: Tilman
+  citation-key: ludkeCyprus2011
+  container-title: Encyclopaedia of Islam Three Online
+  DOI: 10.1163/1573-3912_ei3_COM_24425
+  editor:
+    - family: Fleet
+      given: Kate
+    - family: Krämer
+      given: Gudrun
+    - family: Matringe
+      given: Denis
+    - family: Nawas
+      given: John
+    - family: Stewart
+      given: Devin J.
+  event-place: Leiden
+  issued:
+    - literal: 2011-11-01-2021-07-19
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Cyprus
+  type: chapter
+  URL: >-
+    https://referenceworks-brill-com.proxy.ub.uni-frankfurt.de/display/entries/EI3O/COM-24425.xml
+
 - id: mcdonaldCanonDebate2019
   abstract: >-
     "What does it mean to speak of a 'canon' of scripture? How, when, and where
@@ -1389,6 +1423,32 @@ references:
   title: 'Christian-Muslim relations: A bibliographical history. Volume 3 (1050-1200)'
   title-short: Christian-Muslim relations 3
   type: book
+
+- id: thomasLetterPeopleCyprus2009
+  author:
+    - family: Thomas
+      given: David
+  citation-key: thomasLetterPeopleCyprus2009
+  container-title: 'Christian-Muslim Relations: A Bibliographical History. Volume 4 (1200–1350)'
+  editor:
+    - family: Thomas
+      given: David
+    - family: Mallett
+      given: Alexander
+  event-place: Leiden
+  ISBN: 978-90-04-16975-3
+  issued:
+    - year: 2009
+      month: 11
+      day: 30
+  language: en
+  page: 769–772
+  publisher: Brill
+  publisher-place: Leiden
+  source: Google Books
+  title: The letter from the people of Cyprus
+  type: chapter
+  URL: https://ubffm.hds.hebis.de/Record/HEB308341171
 
 - id: treigerChristologyLetterPeople2013
   author:
