@@ -1208,6 +1208,27 @@ references:
   title-short: Exegesis as Polemical Discourse
   type: book
 
+- id: rossQuranCommentaryBiblical2024
+  author:
+    - family: Ross
+      given: Samuel (Verfasser)
+  citation-key: rossQuranCommentaryBiblical2024
+  event-place: Berlin
+  ISBN: 978-3-11-066964-0
+  issued:
+    - year: 2024
+  number-of-pages: 1 Online-Ressource (XVI, 278 Seiten)
+  publisher: Walter de Gruyter GmbH
+  publisher-place: Berlin
+  source: COinS
+  title: >-
+    Qur'an commentary and the biblical turn : a history of Muslim exegetical
+    engagement with the Biblical text
+  title-short: Qur'an commentary and the biblical turn
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1515%2F9783110669640
+
 - id: rothSolomonAbrahamIbn2003
   abstract: >-
     Norman Roth, “Solomon b. Abraham Ibn Adret,” in Norman Roth, ed., Medieval
@@ -1369,6 +1390,54 @@ references:
   type: book
   URL: >-
     https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110623673/html
+
+- id: suleimanSchuldfaehigkeitTrotzFehlender2020
+  abstract: >-
+    If all things and events, including human actions, are predetermined by God
+    since pre-eternity, then what space is left for human freedom of will, and
+    hence, for moral responsibility? In the beginning of the 14th century, a
+    non-Muslim scholar, probably of Jewish faith, confronted several Muslim
+    scholars from Damascus and Cairo with precisely this question in versified
+    form. Among them is the well-known Ḥanbalī theologian and jurist Ibn
+    Taymiyya (d. 728/1328), who is said to have responded instantly with a
+    184-verse poem (of which 125 verses are extant). This article provides an
+    analysis of Ibn Taymiyya’s stance on the question of how it can be said that
+    God is just in predetermining and judging human actions and compares it to
+    that of Faḫr ad-Dīn ar-Rāzī. The article ends with the first full
+    translation of the versified question and Ibn Taymiyya’s response into a
+    European language. Both thinkers depart from similar positions, insofar as
+    both deny human free will. However, while Ibn Taymiyya tries to show that
+    the fact that God will hold human beings accountable for their predetermined
+    actions does not go against our inborn sense of justice, ar-Rāzī adduces
+    that fact as part of his strategy to show that God’s actions cannot be
+    subject to rational moral assessment, as they would otherwise have to be
+    declared as senseless and even harmful.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 22
+  author:
+    - family: Suleiman
+      given: Farid
+  citation-key: suleimanSchuldfaehigkeitTrotzFehlender2020
+  container-title: Der Islam
+  DOI: 10.1515/islam-2020-0007
+  ISSN: 1613-0928, 0021-1818
+  issue: '1'
+  issued:
+    - year: 2020
+      month: 5
+      day: 4
+  language: de
+  page: 172–202
+  source: DOI.org (Crossref)
+  title: >-
+    Schuldfähigkeit trotz fehlender Willensfreiheit? **Eine Analyse der Position
+    Ibn Taymiyyas. Mit einer Übersetzung seiner** *al-Qaṣīda at-tāʾiyya*
+  title-short: Schuldfähigkeit trotz fehlender Willensfreiheit?
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/islam-2020-0007/html
+  volume: '97'
 
 - id: thomasChristianMuslimRelationsBibliographical2009
   abstract: >-
